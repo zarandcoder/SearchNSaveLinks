@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import re
-path = '/home/vadim/Desktop/results'
+path = ''
 linkList = []
 
 
